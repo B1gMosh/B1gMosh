@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @B1gMosh
 - 👀 I’m interested in learning to code and program
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on not much as im learning
+- 🌱 I’m currently learning SwiftUI
+- 💞️ I’m not looking to collaborate on much as im learning
 - 📫 How to reach me halmosher12@gmail.com
 
 <!---
